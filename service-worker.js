@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.678bbed011ed9094688c91df8caaab63.js"
+  "/precache-manifest.ce461981c78c043fa3b87af136653bb7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ionic-vue-test"});
